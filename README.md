@@ -1,10 +1,10 @@
 # ACM Research Coding Challenge (Spring 2023)
 
 ## The Problem
-  Are there any correlations between Temperature and Luminosity?
-  Are there any correlations between Star Type and Spectral Class?
-  Are there any correlations between Star Color and Spectral Class?
-  Which property is the most valuable in determining a star type?
+  - Are there any correlations between Temperature and Luminosity?
+  - Are there any correlations between Star Type and Spectral Class?
+  - Are there any correlations between Star Color and Spectral Class?
+  - Which property is the most valuable in determining a star type?
   
 ## The Planning
 
