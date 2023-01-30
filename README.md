@@ -16,4 +16,5 @@
 
 ## Citations
   https://www.kaggle.com/code/stas2328/dot-plot-graph-in-python
+  https://www.kaggle.com/code/salmanhiro/hertzsprung-russell-diagram
   
